@@ -1,0 +1,8 @@
+; replace these with your own API keys and save as config.gcfg
+; .gitignore will ignore that file, but always be careful not
+; to commit your keys!
+[api]
+ConsumerKey = your-consumer-key
+ConsumerSecret = your-consumer-secret
+AccessToken = your-access-token
+AccessTokenSecret = your-access-token-secret
